@@ -49,8 +49,8 @@ https://docs.google.com/document/d/1BZ5hq-Vpgyt-gmkmRy9Fl-KTWtIkOtS1Yf2BUyFZwBM/
 
 　本研究において以下の２つが論点である。
 
-　・Legacy MapillaryとStrava route builderのどちらをマニュアル動画の題材として採　　用するのか。
-　・ブログ等の形式ではなく、映像にすることでどのような効果があるのか。
+#### ・Legacy MapillaryとStrava route builderのどちらをマニュアル動画の題材として採用するのか。
+#### ・ブログ等の形式ではなく、映像にすることでどのような効果があるのか。
 
 　1点目については、双方とも動画にする意義は見受けられたが、Legacy Mapillaryはすでにサービス停止が発表されているため、今後の活用の幅の差異から、Strava route builderを動画の題材として採用した。
 　2点目については前項にて述べた動画の優位性に基づいて検討した。今回製作した動画では、特に「視覚と聴覚に訴えかけ多くの情報を伝達できる」点と「記憶定着率が高い」点において文字や画像よりも使用方法のレクチャーに適している。
