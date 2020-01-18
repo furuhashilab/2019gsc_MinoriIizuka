@@ -5,3 +5,5 @@
 
 ### ゼミ論印刷提出用
 ### https://docs.google.com/document/d/1BZ5hq-Vpgyt-gmkmRy9Fl-KTWtIkOtS1Yf2BUyFZwBM/edit?usp=sharing
+
+# Strava route builderのマニュアル動画作成
