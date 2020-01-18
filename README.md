@@ -1,6 +1,6 @@
-# Strava route builderのマニュアル動画作成
+# 【 Strava route builderのマニュアル動画作成 】
 
-***
+
 
 # 資料
 
