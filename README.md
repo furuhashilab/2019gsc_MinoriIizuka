@@ -8,7 +8,7 @@
 
 ***
 
-# Strava route builderのマニュアル動画作成
+# Strava route builderのマニュアル動画作成（ゼミ論文本文）
 
 ### 概要
 
