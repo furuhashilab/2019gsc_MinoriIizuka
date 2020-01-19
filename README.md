@@ -87,7 +87,7 @@ https://youtu.be/EFxhkGRXAXA
 
 ## 参考文献
 
-[O'Reilly Japan「デザインの心理学」] (https://www.oreilly.co.jp/pub/9784873115573/100Things_sample.pdf)
+[O'Reilly Japan「デザインの心理学」](https://www.oreilly.co.jp/pub/9784873115573/100Things_sample.pdf)
 
 
 ## 謝辞
