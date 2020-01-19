@@ -39,7 +39,7 @@ https://youtu.be/EFxhkGRXAXA
 - 概要
 - テーマ選択の経緯
 - 方法
-- 結果
+- 成果物（動画）の意義
 - 論点
 - 結論
 - 参考文献
@@ -84,7 +84,7 @@ https://youtu.be/EFxhkGRXAXA
 <br />
 <br />
 
-## 結果
+## 成果物（動画）の意義
 
 <br />
 
