@@ -33,7 +33,6 @@ https://youtu.be/EFxhkGRXAXA
 
 ## テーマ選択の経緯
 
----
 
 　本研究対象となったStrava route builderに私が初めて触れたのは、2019年度古橋研究室において実施された埼玉県横瀬町での合宿であった。横瀬町全体を車数台でQooCam 360°などの360度撮影が可能な撮影機材とStravaを用いてマッピングした。作業の中で、研究室メンバー全員が等しく操ることのできないマップツールが２つ存在した。Legacy mapillaryとStrava route builderである。そこで私は、十分なインストラクションが存在せず、使用方法を理解している者が理解していない者へ付きっきりでレクチャーしているという現状に気づいた。そのためゼミ論としてマップツールのマニュアル化に着手することとした。
 
@@ -88,8 +87,8 @@ https://youtu.be/EFxhkGRXAXA
 
 ## 参考文献
 
-O'Reilly Japan「デザインの心理学」
-https://www.oreilly.co.jp/pub/9784873115573/100Things_sample.pdf
+[O'Reilly Japan「デザインの心理学」]
+(https://www.oreilly.co.jp/pub/9784873115573/100Things_sample.pdf)
 
 
 ## 謝辞
