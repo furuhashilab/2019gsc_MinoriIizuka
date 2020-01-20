@@ -185,7 +185,7 @@ https://youtu.be/EFxhkGRXAXA
 
 - [水原 啓暁，井上 卓，笹岡 貴史，鹿内 学(2012)「ミラーニューロンシステムにより促進される音声知覚」](https://www.jstage.jst.go.jp/article/cogpsy/2012/0/2012_12/_pdf/-char/ja)   
 - [J Lalley, R Miller(2007)「What is the learning pyramid」](https://drwilda.com/2013/03/06/what-is-the-learning-pyramid/)    
-- [O'Reilly Japan「デザインの心理学」](https://www.oreilly.co.jp/pub/9784873115573/100Things_sample.pdf)    
+    
 
 <br />
 <br />
