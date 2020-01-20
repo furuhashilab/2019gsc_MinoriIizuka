@@ -42,7 +42,7 @@ https://youtu.be/EFxhkGRXAXA
 - 方法
 - 成果物（動画）の意義
 - 論点
-- 結論
+- 結論・考察
 - 参考文献
 - 謝辞
 
@@ -166,7 +166,7 @@ https://youtu.be/EFxhkGRXAXA
 <br />
 <br />
 
-## 結論
+## 結論・考察
 
 <br />
 
